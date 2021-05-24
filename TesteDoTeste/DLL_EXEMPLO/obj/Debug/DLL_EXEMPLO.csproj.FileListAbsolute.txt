@@ -1,0 +1,5 @@
+C:\Users\artur\Desktop\TesteDoTeste\DLL_EXEMPLO\bin\Debug\DLL_EXEMPLO.dll
+C:\Users\artur\Desktop\TesteDoTeste\DLL_EXEMPLO\bin\Debug\DLL_EXEMPLO.pdb
+C:\Users\artur\Desktop\TesteDoTeste\DLL_EXEMPLO\obj\Debug\DLL_EXEMPLO.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\TesteDoTeste\DLL_EXEMPLO\obj\Debug\DLL_EXEMPLO.dll
+C:\Users\artur\Desktop\TesteDoTeste\DLL_EXEMPLO\obj\Debug\DLL_EXEMPLO.pdb

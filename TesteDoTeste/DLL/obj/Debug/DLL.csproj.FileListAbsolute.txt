@@ -1,0 +1,6 @@
+C:\Users\artur\Desktop\TesteDoTeste\DLL\bin\Debug\DLL.dll
+C:\Users\artur\Desktop\TesteDoTeste\DLL\bin\Debug\DLL.pdb
+C:\Users\artur\Desktop\TesteDoTeste\DLL\obj\Debug\DLL.csprojAssemblyReference.cache
+C:\Users\artur\Desktop\TesteDoTeste\DLL\obj\Debug\DLL.csproj.CoreCompileInputs.cache
+C:\Users\artur\Desktop\TesteDoTeste\DLL\obj\Debug\DLL.dll
+C:\Users\artur\Desktop\TesteDoTeste\DLL\obj\Debug\DLL.pdb
